@@ -59,7 +59,7 @@ I Will continue learning CSS because what I learn for this project is to know ab
 
 ## Author
 
-- Website - [Mark Gil Sumanlad](https://kramlig22.github.io/MarkGilSumanlad/)
+- Website - [Mark Gil Sumanlad](https://kramligcoder.github.io/MarkGilSumanlad/)
 - Frontend Mentor - [@kramlig22](https://www.frontendmentor.io/profile/kramlig22)
 - Twitter - [@MarkGilSumanlad](https://twitter.com/MarkGilSumanlad)
 
