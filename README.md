@@ -30,8 +30,7 @@ No Screenshot added
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [New Homepage Challenge](https://kramligcoder.github.io/News-homepage-challenge/)
 
 ## My process
 
@@ -59,7 +58,7 @@ I Will continue learning CSS because what I learn for this project is to know ab
 
 ## Author
 
-- Website - [Mark Gil Sumanlad](https://kramlig22.github.io/MarkGilSumanlad/)
+- Website - [Mark Gil Sumanlad](https://kramligcoder.github.io/MarkGilSumanlad/)
 - Frontend Mentor - [@kramlig22](https://www.frontendmentor.io/profile/kramlig22)
 - Twitter - [@MarkGilSumanlad](https://twitter.com/MarkGilSumanlad)
 

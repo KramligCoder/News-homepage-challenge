@@ -17,6 +17,7 @@
 
 body {
     margin: 20px 0 0 0;
+    background: hsl(36, 100%, 99%);
 }
 #m_content, header {
     max-width: 1110px;
