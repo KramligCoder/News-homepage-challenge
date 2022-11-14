@@ -30,7 +30,7 @@ No Screenshot added
 
 ### Links
 
-- Live Site URL: [New Homepage Challenge](https://kramligcoder.github.io/News-homepage-challenge/)
+- Live Site URL: [News homepage challenge](https://your-live-site-url.com](https://kramligcoder.github.io/News-homepage-challenge)
 
 ## My process
 
