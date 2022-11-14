@@ -30,8 +30,7 @@ No Screenshot added
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [News homepage challenge]([https://your-live-site-url.com](https://kramligcoder.github.io/News-homepage-challenge/))
 
 ## My process
 
